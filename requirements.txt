@@ -1,0 +1,6 @@
+requests==2.24.0
+numpy==1.19.1
+fake_useragent==0.1.11
+matplotlib==3.3.0
+scipy==1.5.2
+python_dateutil==2.8.1
